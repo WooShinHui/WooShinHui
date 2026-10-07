@@ -25,4 +25,4 @@ Agentic Development · AI-assisted workflows · Development Automation
 
 ## Currently Playing With
 
-<img src="./assets/dev-session.svg" width="100%" alt="Current development focus" />
+<img src="./asset/dev-session.svg" width="100%" alt="Current development focus" />
