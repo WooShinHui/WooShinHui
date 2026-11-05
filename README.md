@@ -10,7 +10,6 @@ Building AI-powered developer tools and workflows that solve real engineering pr
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 `LLM API` · `RAG` · `MCP` · `Tool Calling` · `BM25` · `Embeddings`
 
@@ -23,8 +22,8 @@ Building AI-powered developer tools and workflows that solve real engineering pr
 
 ## AI Development Tools
 
-![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
 
 `Claude Code` · `Codex CLI` · `Agentic Development`
