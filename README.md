@@ -49,6 +49,8 @@ learning: Python Backend
 
 <details>
 <summary>🧪 <b>Canvas MCP</b> · <code> 약 3시간 → 20분 </code></summary>
+  
+**코드:** [canvas-agent-mcp](https://github.com/WooShinHui/canvas-agent-mcp)
 
 - **문제:** Canvas 내부는 브라우저 도구로 보이지 않아 구현, 사람 확인, 수정이 반복됨
 - **해결:** 메인 씬에 접근해 실행, 상태 조회, 클릭·드래그, 타임라인, 스크린샷을 제공하는 도구 8종 구현
@@ -127,4 +129,4 @@ learning: Python Backend
 | `2025.02` | 🏢 천재교육 입사 |
 | `2024.06` | 🎓 충북 아카데미 글로벌 게임센터 · 기업연계 프로젝트(곤군게임즈) |
 
-> 🔒 실서비스 게임과 업무 코드는 보안 및 소유권 문제로 비공개입니다.
+> 🔒 실서비스 게임과 일부 업무 코드는 보안 및 소유권 문제로 비공개입니다.
