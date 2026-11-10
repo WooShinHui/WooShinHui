@@ -6,7 +6,7 @@
 
 **반복되는 병목**을 찾아 **도구로 해결**하고, **토큰과 시간으로 측정**합니다.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-D97757?style=flat-square&logo=readdotcv&logoColor=white)](링크)
+[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-D97757?style=flat-square&logo=readdotcv&logoColor=white)](https://github.com/WooShinHui/WooShinHui/blob/main/asset/AI_Engineer.pdf)
 [![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=e7tsqP_GTtQ)
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
