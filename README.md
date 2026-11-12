@@ -50,7 +50,7 @@ learning: Python Backend
 <details>
 <summary><b>Canvas MCP</b> · <code> 약 3시간 → 20분 </code></summary>
   
-**코드:** [canvas-agent-mcp](https://github.com/WooShinHui/canvas-agent-mcp)
+**Code:** [canvas-agent-mcp](https://github.com/WooShinHui/canvas-agent-mcp)
 
 - **문제:** Canvas 내부는 브라우저 도구로 보이지 않아 구현, 사람 확인, 수정이 반복됨
 - **해결:** 메인 씬에 접근해 실행, 상태 조회, 클릭·드래그, 타임라인, 스크린샷을 제공하는 도구 8종 구현
@@ -60,6 +60,8 @@ learning: Python Backend
 
 <details>
 <summary><b>Whisper Editor</b> · <code>작업 시간 80%↓</code></summary>
+
+**Code:** [Whisper-Editor](https://github.com/WooShinHui/Whisper-Editor)
 
 - **문제:** 음성에 맞춰 JSON을 수작업으로 고치며 시간 소모와 휴먼 에러 발생
 - **해결:** API 끊김을 피하려 Whisper를 로컬에서 구동하고, 원문과 음성 타이밍을 맞추는 GUI 개발
@@ -88,6 +90,8 @@ learning: Python Backend
 ---
 
 ### 개인 프로젝트 · AI Factory
+
+**Code:** [AI Factory](https://github.com/WooShinHui/ai_factory_portfolio)
 
 `RAG` `MCP` `Claude Code` `Codex` `Hooks`
 
